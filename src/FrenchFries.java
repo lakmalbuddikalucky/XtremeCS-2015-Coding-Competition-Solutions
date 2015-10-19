@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class FrenchFries {
 
 	public static void main(String[] args) {
@@ -73,7 +72,5 @@ public class FrenchFries {
 		else{
 			return num2;
 		}
-		
 	}
-
 }
